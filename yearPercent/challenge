@@ -1,0 +1,6 @@
+write a program that takes todays date, and processes how far along the year is from being completed in percent.
+
+phase 1:
+- caclulate the percentage
+phase 2:
+- display the percent in a progress bar on command line
