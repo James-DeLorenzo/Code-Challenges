@@ -6,3 +6,5 @@ layout: default
 ---
 
 # Hello world
+
+This is my main page for coding challenges I have decided to attempt.
